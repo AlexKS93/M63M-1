@@ -12,7 +12,7 @@
 
 ## Настройка
 
-Настройки можно указать в файле "AnemorumbometerService.exe.config"
+Settings can be specified in the file "AnemorumbometerService.exe.config"
 
 ## Scheme
 ```mermaid
