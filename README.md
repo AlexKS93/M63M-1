@@ -3,14 +3,14 @@
 
 
 
-## Установка
+## Install
 
 1. Copy the compiled program to any directory;
 2. Install the service using InstallUtil;
 3. Complete the setup;
 4. Start the service
 
-## Настройка
+## Settings
 
 Settings can be specified in the file "AnemorumbometerService.exe.config"
 
