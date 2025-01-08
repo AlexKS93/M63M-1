@@ -3,18 +3,18 @@
 
 
 
-## Install
+## Установка
 
-1. Copy the compiled program to any directory;
-2. Install the service using InstallUtil;
-3. Complete the setup;
-4. Start the service
+1. Скопируйте скомпилированную программу в любой каталог;
+2. Установите сервис с помощью InstallUtil;
+3. Укажите настройки;
+4. Запустите сервис
 
-## Settings
+## Настройки
 
-Settings can be specified in the file "AnemorumbometerService.exe.config"
+Настройки могут быть указаны в файле "AnemorumbometerService.exe.config".
 
-## Scheme
+## Схема
 ```mermaid
 graph LR
 A[M63M-1] -- RS-232 --> B(Driver)-- OPC --> C(OPC Server)
